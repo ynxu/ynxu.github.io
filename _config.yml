@@ -1,9 +1,9 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: YnXu Github Blog.
-email: 243071373@qq.com
-brand: 闫旭
-headline: To every little good thing in life...
+title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+email: your-email@domain.com
+brand: Your Name
+headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,9 +17,9 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: 243071373@qq.com
-phone: +86-150-XXXX-9880
+email: your.name@gmail.com
+phone: +1-800-555-2016
 
 # Tracking
-googleAnalitycsID: none
+googleAnalitycsID: UA-83933844-1
 
