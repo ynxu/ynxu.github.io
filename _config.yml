@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://ynxu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -67,7 +67,8 @@ theme: hexo-theme-material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:ynxu/ynxu.github.io.git
-  branch: master
+
+#deploy:
+#  type: git
+#  repo: git@github.com:ynxu/ynxu.github.io.git
+#  branch: master
