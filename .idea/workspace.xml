@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dfe6d8b-e5c2-4d70-b87e-ea99421f1625" name="Default" comment="">
+    <list default="true" id="9dfe6d8b-e5c2-4d70-b87e-ea99421f1625" name="Default" comment="add&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/themes/next" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ynxu.github.io.iws" />
@@ -232,7 +233,7 @@
       <option name="presentableId" value="Default" />
       <updated>1480057296554</updated>
       <workItem from="1480057298606" duration="10534000" />
-      <workItem from="1480068646661" duration="388000" />
+      <workItem from="1480068646661" duration="485000" />
     </task>
     <task id="LOCAL-00001" summary="add&#10;">
       <created>1480059342048</created>
@@ -276,11 +277,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480068743935</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add&#10;">
+      <created>1480069062880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1480069062880</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10922000" />
+    <option name="totallyTimeSpent" value="11019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -319,6 +327,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="add&#10;" />
     <option name="LAST_COMMIT_MESSAGE" value="add&#10;" />
   </component>
