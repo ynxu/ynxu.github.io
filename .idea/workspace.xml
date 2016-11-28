@@ -2,7 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dfe6d8b-e5c2-4d70-b87e-ea99421f1625" name="Default" comment="add&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/avatar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/placeholder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/searchicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/hexo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/source/guestbook/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guestbook/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/algolia_logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc-nd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc-sa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-sa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-zero.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quote-l.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quote-r.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/algolia-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/hook-duoshuo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/motion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/post-details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/schemes/pisces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/CONTRIBUTING.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.scrollstop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/hexo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/themes/next" afterPath="$PROJECT_DIR$/code/themes/next" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -38,8 +114,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/code/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            <state relative-caret-position="102">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -145,20 +221,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ynxu.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ynxu.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -259,7 +321,7 @@
       <updated>1480057296554</updated>
       <workItem from="1480057298606" duration="10534000" />
       <workItem from="1480068646661" duration="3046000" />
-      <workItem from="1480298452597" duration="6446000" />
+      <workItem from="1480298452597" duration="6585000" />
     </task>
     <task id="LOCAL-00001" summary="add&#10;">
       <created>1480059342048</created>
@@ -345,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480304850527</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add&#10;">
+      <created>1480305596959</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1480305596959</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20026000" />
+    <option name="totallyTimeSpent" value="20165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -704,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="102">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding />
         </state>
       </provider>
